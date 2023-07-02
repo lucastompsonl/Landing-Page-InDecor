@@ -1,12 +1,50 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>InDecor</title>
-</head>
-<body>
-    
-</body>
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+    <header id="event-description">
+      <div id="disclaimer">
+        <h2>InDecor</h2>
+        <p class="about-event">
+          Um evento para revolucionar a sua criatividade
+        </p>
+        <p>Data do evento:</p>
+        <p class="event-date">Domingo, 28 de Maio, a partir das 14h</p>
+      </div>
+      <div id="subscription-form">
+        <p>Preencha o formulário para receber os detalhes do evento</p>
+        <form>
+          <div class="form-group">
+            <label for="name">Nome</label>
+            <input type="text" name="name" placeholder="Digite seu nome" />
+          </div>
+          <div class="form-group">
+            <label for="Email">Email</label>
+            <input type="email" name="email" placeholder="Digite seu Email" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Telefone</label>
+            <input type="text" name="email" placeholder="Número do WhtasApp" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Principal Interesse</label>
+            <select name="Interest">
+                <option value="" disabled selected>Selecione</option>
+                <option value="apartment">Apartamentos</option>
+                <option value="house">Casas</option>
+                <option value="garden">Jardins</option>
+                <option value="others">Outros</option>
+            </select>
+          </div>
+          <input type="submit" class="btn" value="Quero me inscrever">
+        </form>
+      </div>
+    </header>
+  </body>
 </html>
