@@ -16,10 +16,6 @@
     box-sizing: border-box;
 }
 
-body {
-    padding-bottom: 500px;
-}
-
 /* Event form */
 #event-description {
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
@@ -269,5 +265,29 @@ body {
     width: 30%;
     margin: 0 auto;
     font-weight: 600;
+    font-size: 1.2em;
+}
+
+/* Footer */
+#footer {
+    text-align: center;
+    color: var(--secondary);
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#footer h3 {
+    font-size: 1.8em;
+    margin-bottom: .5em;
+}
+
+#footer span {
+    font-weight: bold;
+}
+
+#footer p:nth-child(2) {
+    margin-bottom: 1em;
     font-size: 1.2em;
 }
