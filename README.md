@@ -4,9 +4,9 @@
 A ideia deste Projeto é elaborar uma Landing Page de um escritório de Arquitetura que está promovendo um evento, usando uma estrutura básica.
 ![header](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/9aff4d93-3076-4068-9a53-e79e7a8571ca)
 ![benefits](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/173ce183-11aa-4563-a144-367948bfc736)
-![addressanddetails](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/f2990f22-465d-4551-b3c4-3fea94c44da5)
-![addressanddetails2](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/3a0432cb-b1d5-4dd5-b033-203706c72e91)
-![detailsandsubscription](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/d2a5fded-deca-472f-85ed-d85ccc5f99d4)
+![addressanddetails](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/d00b36b2-a938-4604-a872-58847854cd2d)
+![addressanddetails2](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/a930a6fc-e4db-4e36-bf8f-e5fe508675cb)
+![detailsandsubscription](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/be65b4e2-73ee-49a4-b148-7d499dd44b81)
 ![subscriptionfooter](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/f6bb2e72-d2b8-408b-a752-b6ffa3c2d7ea)
 
 <h2>Responsivo | 450px </h2>
