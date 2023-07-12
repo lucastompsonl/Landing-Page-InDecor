@@ -13,7 +13,7 @@ A ideia deste Projeto é elaborar uma Landing Page de um escritório de Arquitet
 
 ![responsivehead](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/30506737-4b2c-4e12-b6a9-d59c6ad6f099)
 ![responsivebenefits](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/0f09443b-e029-4b76-b677-6779ee1c58a5)
-Este projeto está hospedado no GitHub pages! Veja mais detalhes [Clicando aqui!]
+Este projeto está hospedado no GitHub pages! Veja mais detalhes [Clicando aqui!](https://lucastompsonl.github.io/Landing-Page-InDecor/)
 <h2>O que foi utilizado nesta Landing Page?</h2>
 <ul>
  <li>Utilizadas Tags semânticas para melhor entendimento do HTML, visando as melhores práticas.</li>
