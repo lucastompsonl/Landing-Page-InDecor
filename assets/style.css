@@ -172,7 +172,7 @@
     display: flex;
 }
 
-#adress i {
+#address i {
     color: var(--primary);
     font-size: 4em;
     margin-right: 0.5em;

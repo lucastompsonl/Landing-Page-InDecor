@@ -1,15 +1,19 @@
 # Landing Page responsiva de um Evento de Arquitetura!
->Status: Em andamento...
+>Status: Concluído :heavy_check_mark:
 >
 A ideia deste Projeto é elaborar uma Landing Page de um escritório de Arquitetura que está promovendo um evento, usando uma estrutura básica.
-![indecorhead](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/9ebf920f-8c89-4975-bfe6-14fd044e6373)
-![Indecorbenefits](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/8822a2c4-7454-46cf-83b7-1dddcae28c67)
-![Indecoradress](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/0aef7439-6159-41fc-9200-2fc6ecc116f7)
-![indecordetails1](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/dd153f5c-e95c-4d29-8a2a-fd11346e4a73)
-![indecordetails2](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/cd157d5d-4f2f-4270-b35e-d1c249b99137)
-![indecordetails3](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/ce1baf36-8e79-4028-bdd8-3bc0b2e55ed2)
-![indecorfooter](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/03c3087e-ef32-4298-9822-89ceebcd48ba)
+![header](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/9aff4d93-3076-4068-9a53-e79e7a8571ca)
+![benefits](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/173ce183-11aa-4563-a144-367948bfc736)
+![addressanddetails](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/f2990f22-465d-4551-b3c4-3fea94c44da5)
+![addressanddetails2](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/3a0432cb-b1d5-4dd5-b033-203706c72e91)
+![detailsandsubscription](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/d2a5fded-deca-472f-85ed-d85ccc5f99d4)
+![subscriptionfooter](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/f6bb2e72-d2b8-408b-a752-b6ffa3c2d7ea)
 
+<h2>Responsivo | 450px </h2>
+
+![responsivehead](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/30506737-4b2c-4e12-b6a9-d59c6ad6f099)
+![responsivebenefits](https://github.com/lucastompsonl/Landing-Page-InDecor/assets/40512508/0f09443b-e029-4b76-b677-6779ee1c58a5)
+Este projeto está hospedado no GitHub pages! Veja mais detalhes [Clicando aqui!](https://lucastompsonl.github.io/Landing-Page-InDecor/)
 <h2>O que foi utilizado nesta Landing Page?</h2>
 <ul>
  <li>Utilizadas Tags semânticas para melhor entendimento do HTML, visando as melhores práticas.</li>
@@ -20,6 +24,7 @@ A ideia deste Projeto é elaborar uma Landing Page de um escritório de Arquitet
  <li>Seção de detalhes do que será discutido no Evento.</li>
  <li>Seção com botão para Solicitar Inscrição no Evento.</li>
  <li>Rodapé com breve descrição da Empresa e dados para Contato.</li>
+ <li>Utilizada responsividade para dispositivos com até 450px de largura</li>
 </ul>
 <h4>Tecnologias usadas no Desafio:</h4>
 
